@@ -33,4 +33,4 @@ en software fusion360.
 
 4. Codigo:
 
-No tuvimos tiempo de probar el codigo debidamente, sin embargo, lo cuelgo en el archivo, pendulo_pid.cpp para lectura de parte del profesor.
+No tuvimos tiempo de probar el codigo debidamente, sin embargo, lo cuelgo en la carpeta pendulo_pid para lectura de parte del profesor.
